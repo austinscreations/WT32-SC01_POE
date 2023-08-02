@@ -2,8 +2,8 @@
 
 2023-06-28:
 
-New sheild has been designed that is more universal. the deisgn is much smaller. uses a single 1.25mm jst conenctor to connect to teh wt32-sc01 PLUS display.
-adapter has been built for the WT32-S3-86v 4" display. adapter in the works to support the orginal display as well
+New sheild has been designed that is more universal. the deisgn is much smaller. uses a single 1.25mm jst conenctor to connect to the wt32-sc01 PLUS display.
+adapter has been built for the WT32-S3-86s (replaces the 86v) 4" display. adapter in the works to support the orginal display as well
 
 2022-06-23: renamed the repo as this project has evolved
 
